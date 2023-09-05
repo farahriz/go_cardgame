@@ -1,0 +1,1 @@
+Command line project to learn the basics of Golang. Simulates playing with a deck of cards.
